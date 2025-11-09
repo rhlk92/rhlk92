@@ -1,20 +1,16 @@
-# 👨‍💻 Rahul Karkera
-
-**`Senior Software engineer / Tech Enthusiast`**
-
-I'm Rahul Karkera — a passionate developer and engineer with an M.Tech in Embedded and Wireless Technology. Currently working at Infratab, I specialize in building scalable solutions and modern software architectures.
-
-🧠 **Self-taught** in modern software design patterns  
-🔌 **Backend & Cloud** - Python, Spark, Kubernetes, Azure  
-🛠️ **DevOps Focused** - Clean APIs, CI/CD pipelines & deployments  
-
-Checkout my [portfolio](https://rhlk.pages.dev) for curated highlights.
-
 ![Skills](https://skills-icons.vercel.app/api/icons?i=python,django,postgresql,git,docker,linux,azure,kubernetes,vscode)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rhlk92&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhlk92&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+Building scalable backend systems, cloud infrastructure, and robust APIs at Infratab. Passionate about distributed systems, CI/CD, and modern DevOps.
+
+- Architecting production-grade solutions with Python, Django, FastAPI, and Spark
+- Designing and deploying cloud-native apps on Azure and Kubernetes
+- Implementing CI/CD pipelines, infrastructure as code, and monitoring
+- Experience with data engineering (Apache Iceberg, PostgreSQL), event-driven design, and automation
+
+
+Explore my portfolio for selected projects, articles, and practical lessons: [rahulk.pages.dev](https://rahulk.pages.dev)
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=rahulkarkera&theme=ayu-mirage&count_private=true&hide_border=true&line_height=20&include_orgs=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkera&theme=ayu-mirage&hide_border=true&include_orgs=true" />
+</p>

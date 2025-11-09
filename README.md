@@ -10,7 +10,14 @@ Building scalable backend systems, cloud infrastructure, and robust APIs at Infr
 
 Explore my portfolio for selected projects, articles, and practical lessons: [rahulk.pages.dev](https://rahulk.pages.dev)
 
-<div style="display: flex; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkarkera&theme=ayu-mirage&count_private=true&hide_border=true&include_orgs=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkera&theme=ayu-mirage&hide_border=true&include_orgs=true" />
-</div>
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulkarkera&show_icons=true&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+
+  </td>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkera&theme=ayu-mirage&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+  </td>
+</tr>
+</table>

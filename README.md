@@ -15,7 +15,7 @@ Explore my portfolio for selected projects, articles, and practical lessons: [ra
     <img src="https://github-readme-stats.vercel.app/api?username=rahulkarkera&show_icons=true&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="GitHub Stats"/>
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulkarkera&show_icons=true&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" title="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkera&theme=ayu-mirage&hide_border=true" alt="Github Streak" title="Github Streak"/>
   </td>
 </tr>
 </table>

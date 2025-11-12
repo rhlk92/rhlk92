@@ -7,7 +7,7 @@ Senior Software Engineer focused on Python backend, Postgres, and cloud‑native
 - Async & messaging: Celery task orchestration and RabbitMQ for background jobs and decoupled processing.
 - Data workflows: PySpark transformations producing analytics‑ready, versioned outputs as Apache Iceberg tables on Azure Data Lake (kept behind clean service boundaries).
 
-Explore my portfolio for selected projects, articles, and practical lessons: [rahulk.pages.dev](https://rahulk.pages.dev)
+Explore my [portfolio](https://rhlk.pages.dev) for selected projects, articles, and practical lessons.
 
 <table>
 <tr>
